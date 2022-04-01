@@ -5,27 +5,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "Noticia 1",
-      "imageUrl": "https://rickandmortyapi.com/api/character/avatar/1.jpeg",
-      "desc": "Sanchez é um cientista alcoólatra misantrópico inspirado no Dr. Emmett Brown de Christopher Lloyd de Back to the Future e Reed Richards da Marvel Comics."
+      "title": "Rick and Morty: Trailer da 4ª temporada traz personagens antigos",
+      "image": "https://jpimg.com.br/uploads/2019/10/rick-and-morty-4-temporada.png",
+      "description": "A animação do Adult Swim também ganhou data de estreia nos Estados Unidos: os cinco novos episódios serão exibidos a partir de 10 de novembro por lá."
     },
     {
       "id": 2,
-      "title": "Noticia 2",
-      "imageUrl": "https://rickandmortyapi.com/api/character/avatar/2.jpeg",
-      "desc": "Morty é um ansioso garoto de 14 anos baseado em Marty McFly de Michael J. Fox em Back to the Future."
+      "title": "Quarta temporada de Rick And Morty tem primeira cena liberada",
+      "imageUrl": "https://jpimg.com.br/uploads/2019/07/rick-and-morty-e1588074354645.jpg",
+      "description": "A apresentação aconteceu no painel da série na San Diego Comic Con. Os novos episódios devem ir ao ar em novembro, nos EUA. Ainda não há previsão de lançamento para o Brasil."
     },
     {
       "id": 3,
-      "title": "Noticia 3",
-      "imageUrl": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
-      "desc": "Summer é uma adolescente convencional e muitas vezes superficial e inicialmente de 17 anos, que está obcecada em melhorar seu status social entre seus pares."
+      "title": "Rick and Morty: Kanye West vai colaborar com episódio de nova temporada",
+      "image": "https://jpimg.com.br/uploads/2019/05/rick-and-morty-season-4.png",
+      "description": "Kanye West pode ter a chance de trabalhar em um episódio de “Rick and Morty“. Aliás, o rapper é fã declarado da série e ficou bem feliz quando soube que haveriam 70 novos episódios. Esta semana, foi anunciado que a quarta temporada chega em novembro nos EUA."
     },
     {
       "id": 4,
-      "title": "Noticia 4",
-      "imageUrl": "https://rickandmortyapi.com/api/character/avatar/3.jpeg",
-      "desc": "Summer é uma adolescente convencional e muitas vezes superficial e inicialmente de 17 anos, que está obcecada em melhorar seu status social entre seus pares."
+      "title": "Criador de ‘Rick and Morty’ trabalha em nova animação para o Quibi",
+      "image": "https://jpimg.com.br/uploads/2019/10/rick-and-morty-4-temporada.png",
+      "description": "Justin Roiland, a mente por trás de “Rick and Morty” ao lado de Dan Harmon, está desenvolvendo uma nova série para a futura plataforma de streaming Quibi."
     }
   ]
 }
